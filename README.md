@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<a href=""https://steamcommunity.com/profiles/76561199535999965/><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
