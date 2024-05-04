@@ -5,8 +5,8 @@
 <img src="./img/do job full and jojo.png" /> 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaabdevelop&show_icons=true&count_private=true&hide_border=true&title_color=238636&icon_color=238636&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabdevelop&layout=compact&hide_border=true&title_color=238636&text_color=238636&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oGaabDisse&show_icons=true&count_private=true&hide_border=true&title_color=238636&icon_color=238636&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGaabDisse&layout=compact&hide_border=true&title_color=238636&text_color=238636&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gaabdevelop}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{oGaabDisse}/count.svg" /></p> 
 <br>
 </div>
 
